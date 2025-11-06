@@ -5,7 +5,7 @@ const gradosAradianes = (angulo) => {
 }
 
 const radianesAgrados = (radian) => {
-    return radianes*(180/Math.PI);
+    return radian*(180/Math.PI);
 }
 
 let radian = Math.PI
